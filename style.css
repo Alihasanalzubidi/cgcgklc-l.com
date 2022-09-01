@@ -118,6 +118,8 @@ section {
     flex-direction: row;
     flex-wrap: wrap;
 }
+.fa fa-paypal {color: #f8f8ff ;
+}
 
 .card {
     background-color: #fff;
